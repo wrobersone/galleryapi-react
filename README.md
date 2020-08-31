@@ -1,3 +1,8 @@
+- Install tailwindcss
+- sign up to Pixabay and retrieve API key
+- make an ImageCard with a grid, add a key called image.id
+- add image.id to span key to change names of tags
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
